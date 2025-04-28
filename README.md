@@ -73,17 +73,12 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![Screenshot 2025-03-10 105815](https://github.com/user-attachments/assets/5fcb5f42-05d0-40d2-9865-b9f238fe8220)
-![Screenshot 2025-03-10 105959](https://github.com/user-attachments/assets/17ab154a-54ea-4f14-ba87-4a85b2260e72)
-![Screenshot 2025-03-10 110033](https://github.com/user-attachments/assets/49b11261-b50d-41d2-b5c0-3c4a4c061ba5)
-![Screenshot 2025-03-10 110054](https://github.com/user-attachments/assets/640693a4-2f4f-4472-8865-74b50d006418)
-![Screenshot 2025-03-10 110112](https://github.com/user-attachments/assets/4b20864a-7eb9-4e6b-8ab7-ad632371c869)
-![Screenshot 2025-03-10 110132](https://github.com/user-attachments/assets/7c08bf08-3f84-49d1-889e-9584f2e04545)
-![Screenshot 2025-03-10 110153](https://github.com/user-attachments/assets/155175a6-10b8-4737-80f0-81d24da6f694)
-![Screenshot 2025-03-10 110216](https://github.com/user-attachments/assets/73df3933-5b54-4c88-aa14-5e8085720fc5)
-![Screenshot 2025-03-10 110240](https://github.com/user-attachments/assets/3d57a195-a4ef-43ef-850b-a54316a0327e)
-![Screenshot 2025-03-10 110256](https://github.com/user-attachments/assets/1170a9a2-f2ef-4042-8d01-6f7d5be1142c)
-![Screenshot 2025-03-10 110314](https://github.com/user-attachments/assets/d140cd1b-afce-4d7f-90c1-a77da03f8ee3)
+## DATA HEAD:
+![image](https://github.com/user-attachments/assets/36799dbd-39cd-4409-8ef4-5192aa109e87)
+## X values:
+![image](https://github.com/user-attachments/assets/bdec43e1-b96f-4482-b846-8486013f631a)
+
+
 
 ## Result:
 
