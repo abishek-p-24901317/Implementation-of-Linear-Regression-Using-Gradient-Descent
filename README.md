@@ -74,13 +74,17 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ## DATA HEAD:
-[exp 3 - Jupyter Notebook.pdf](https://github.com/user-attachments/files/19938760/exp.3.-.Jupyter.Notebook.pdf)
-
+![Screenshot 2025-04-28 160846](https://github.com/user-attachments/assets/f6a6d25e-46f3-4d7a-b1f8-c2bc7c85b2c3)
 ## X values:
-![image](https://github.com/user-attachments/assets/bdec43e1-b96f-4482-b846-8486013f631a)
-
-
-
+![Screenshot 2025-04-28 213638](https://github.com/user-attachments/assets/2c071c13-1fae-4bc7-89f1-d679b348bef7)
+## Y values:
+![Screenshot 2025-04-28 213714](https://github.com/user-attachments/assets/8cd4160f-42a7-4f17-9ce4-6ed429327cdb)
+## X1_scaled:
+![Screenshot 2025-04-28 213853](https://github.com/user-attachments/assets/fd782239-568e-4ee7-afd9-4d2f1c04b735)
+## Y1_scaled:
+![Screenshot 2025-04-28 213928](https://github.com/user-attachments/assets/1d91c223-328d-4f74-b662-ed0929e9f735)
+## Predicted Value:
+![Screenshot 2025-04-28 214016](https://github.com/user-attachments/assets/2432cf68-f03c-401c-8353-5d42ae62aede)
 ## Result:
 
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
