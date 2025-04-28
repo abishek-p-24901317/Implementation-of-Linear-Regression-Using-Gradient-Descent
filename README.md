@@ -74,7 +74,8 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ## DATA HEAD:
-![image](https://github.com/user-attachments/assets/36799dbd-39cd-4409-8ef4-5192aa109e87)
+[exp 3 - Jupyter Notebook.pdf](https://github.com/user-attachments/files/19938760/exp.3.-.Jupyter.Notebook.pdf)
+
 ## X values:
 ![image](https://github.com/user-attachments/assets/bdec43e1-b96f-4482-b846-8486013f631a)
 
