@@ -12,13 +12,17 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm:
 
-1. Import all the required packages.
+1.Import necessary packages: numpy, pandas, and StandardScaler from sklearn.preprocessing.
 
-2. Display the output values using graphical representation tools as scatter plot and graph.
+2.Define linear_regression() to perform gradient descent and learn model parameters.
 
-3. Predict the values using predict() function.
+3.Load the dataset, extract features and target, convert data types, and standardize them.
 
-4. Display the predicted values and end the program.
+4.Train the model using linear_regression() and obtain optimized parameters.
+
+5.Standardize new input data, predict the output, inverse transform the result, and display the predicted value.
+
+6.End the program.
 
 ## Program:
 ```
